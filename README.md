@@ -17,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lenard roy arellano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenard roy arellano" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lenard-roy-arellano-485845266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenard-roy-arellano-485845266" height="30" width="40" /></a>
+<a href="https://fb.com/lenardroyarellano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lenardroyarellano" height="30" width="40" /></a>
+<a href="https://instagram.com/seemsoddhuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seemsoddhuh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yowhobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yowhobin" height="30" width="40" /></a>
 </p>
 
