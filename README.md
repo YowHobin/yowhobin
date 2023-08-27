@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lenardroyarellano@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CoFnKpnPkuFLc_c5mfakFnUAEKIbo9SC/view](https://drive.google.com/file/d/1CoFnKpnPkuFLc_c5mfakFnUAEKIbo9SC/view)
+- 📄 Know about my experiences [bit.ly/LenardRoy_resume)
 
 - ⚡ Fun fact **I tend to learn anything.**
 
