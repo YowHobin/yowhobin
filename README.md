@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lenardroyarellano@gmail.com**
 
-- 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/1CoFnKpnPkuFLc_c5mfakFnUAEKIbo9SC/view)
+- 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/13pEvSQRK5FJk4s8fVvgujpGR-n1q2McS/view)
 
 - ⚡ Fun fact **I tend to learn anything.**
 
