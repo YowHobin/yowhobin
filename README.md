@@ -3,18 +3,18 @@
 <h1 align="center">Hi there👋</h1>
 <h1 align="center">I'm Lenard Roy Arellano</h1>
 <h1 align="center"><a href="https://lenardroyarellano.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Frond-End+Developer;Back-End+Developer;Software+Engineer" alt="Typing SVG" /></a></h1>
-<h3 align="center">I'm from Pasig City, Philippines and I like to code</h3>
+<h3 align="center">I'm from Pasig City, Philippines and I love to code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowhobin&label=Profile%20views&color=0e75b6&style=flat" alt="yowhobin" /> </p>
 
 - 🌱 I’m currently learning **Laravel, ReactJS, and TypeScript.**
 
-- 👨‍💻 All of my projects are available at [https://lenardroyarellano.vercel.app/](https://lenardroyarellano.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
 
 - 📫 How to reach me **lenardroyarellano@gmail.com**
 
-- 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/13pEvSQRK5FJk4s8fVvgujpGR-n1q2McS/view)
+- 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/1Lg9AdmlIzQFKsaJXRt9XSm2-9OYbfsx4/view?usp=sharing)
 
-- ⚡ Fun fact **I tend to learn anything.**
+- ⚡ Fun fact **I try to analyze to learn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
