@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJS, and TypeScript.**
 
-- 👨‍💻 All of my projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
+- 👨‍💻 All of my recent projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
 
 - 📫 How to reach me **lenardroyarellano@gmail.com**
 
