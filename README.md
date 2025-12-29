@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my recent projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
 
-- 📫 How to reach me **lenardroyarellano@gmail.com**
+- 📫 You can reach me **lenardroyarellano@gmail.com**
 
 - 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/1Lg9AdmlIzQFKsaJXRt9XSm2-9OYbfsx4/view?usp=sharing)
 
