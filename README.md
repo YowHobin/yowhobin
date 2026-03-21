@@ -6,7 +6,7 @@
 <h3 align="center">I'm from Pasig City, Philippines and I love to code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowhobin&label=Profile%20views&color=0e75b6&style=flat" alt="yowhobin" /> </p>
 
-- 🌱 I’m currently learning **Laravel, ReactJS, and TypeScript.**
+- 🌱 I’m currently learning **Capacitator**
 
 - 👨‍💻 All of my recent projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/1Lg9AdmlIzQFKsaJXRt9XSm2-9OYbfsx4/view?usp=sharing)
 
-- ⚡ Fun fact **I try to analyze to learn.**
+- ⚡ Fun fact **since I overthink too much, I can predict what is going to happen at any moment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
