@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/1Lg9AdmlIzQFKsaJXRt9XSm2-9OYbfsx4/view?usp=sharing)
 
-- ⚡ Fun fact **since I overthink too much, I can predict what is going to happen at any moment.**
+- ⚡ Fun fact **we can do it because we can, if we can't then we do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
