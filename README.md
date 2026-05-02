@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋</h1>
 <h1 align="center">I'm Lenard Roy Arellano</h1>
 <h1 align="center"><a href="https://lenardroyarellano.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Frond-End+Developer;Back-End+Developer;Software+Engineer" alt="Typing SVG" /></a></h1>
-<h3 align="center">I'm from Pasig City, Philippines and I love to code</h3>
+<h3 align="center">I'm from Pasig City, Philippines and I love to create something from the scratch</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowhobin&label=Profile%20views&color=0e75b6&style=flat" alt="yowhobin" /> </p>
 
 - 🌱 I’m currently learning **Capacitator**
