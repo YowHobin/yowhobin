@@ -4,7 +4,7 @@
 <h3 align="center">I'm from Pasig City, Philippines and I love to create something from the scratch</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowhobin&label=Profile%20views&color=0e75b6&style=flat" alt="yowhobin" /> </p>
 
-- 🌱 I’m currently learning **Capacitator**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my recent projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
 
