@@ -34,7 +34,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- FLEX CONTAINER ENSURES ICONS STAY IN A ROW -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
