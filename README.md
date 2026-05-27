@@ -15,7 +15,7 @@
 - 👨‍💻 All of my recent projects are available at [https://lenard.is-a.dev/](https://lenard.is-a.dev/)
 - 📫 You can reach me **lenardroyarellano@gmail.com**
 - 📄 Know about my experiences by visiting my [Resume](https://drive.google.com/file/d/1Lg9AdmlIzQFKsaJXRt9XSm2-9OYbfsx4/view?usp=sharing)
-- ⚡ Fun fact **we can do it because we can, if we can't then we do.**
+- ⚡ Fun fact **we can do it because we can, if we can't, then we do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
